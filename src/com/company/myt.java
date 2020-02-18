@@ -1,0 +1,1 @@
+public class myt{public static void main(String[] args){System.out.println("cqy,HelloWorld!");}}
